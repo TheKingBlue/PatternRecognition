@@ -1,0 +1,4 @@
+torch==2.15.0 # PyTorch
+pandas==3.1.1 # Pandas
+matplotlib==3.11.2 # Matplotlib
+numpy==2.5.5 # Numpy - should be included in pandas already

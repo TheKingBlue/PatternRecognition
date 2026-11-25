@@ -1,0 +1,2 @@
+# Ignores the virtual enviroment in git
+.venv/
